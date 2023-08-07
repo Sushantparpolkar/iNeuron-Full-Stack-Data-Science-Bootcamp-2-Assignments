@@ -1,0 +1,2 @@
+This is a line with a newline.
+This is a line without a newline.
